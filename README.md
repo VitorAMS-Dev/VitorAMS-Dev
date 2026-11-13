@@ -5,7 +5,7 @@
 - 💻 Estudante de Programação
 - 🌱 Apaixonado por Tecnologia
 - 🎓 FORMADO ADS - Universidade da Cidade De São Paulo <br>
-      Cursando Engenharia de Software - FIAP
+       Cursando Engenharia de Software - FIAP
 
 ##  Habilidades
 
